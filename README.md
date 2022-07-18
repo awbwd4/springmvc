@@ -1,2 +1,2 @@
-# springmvc
-Sprint MVC
+# Spring MVC
+Spring MVC
